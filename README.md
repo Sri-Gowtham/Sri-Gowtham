@@ -21,12 +21,12 @@ Final-year Computer Science and Engineering student at **SNS College of Technolo
 
 ---
 
-## The Hackathon Trail
+## Achievements
 
 | Hackathon | What I built | Result |
 |---|---|---|
+| **Odoo × SNS Hackathon 2026** | [E-Learning Platform](https://github.com/Sri-Gowtham/globe_trotter), a team project | **2nd Runner-Up** |
 | **EVOX 1.0** (DETOX, on Unstop) | [City of One Rule](https://github.com/Sri-Gowtham/city-of-one-rule), a browser city simulation you steer with one rule a day, built with teammate Sanjana BR | **Winner, 1st place** among 2,000+ participants |
-| **Odoo × SNS Hackathon 2026** | E-Learning Platform, built as a team ([repository](https://github.com/Sri-Gowtham/globe_trotter)) | **2nd Runner-Up** |
 | **WebRush 2026** | [Rewind](https://github.com/Sri-Gowtham/rewind), listening data turned into story chapters | **48th place** among 1,000+ participants |
 
 ---
