@@ -1,4 +1,4 @@
-# Sri Gowtham
+# Sri Gowtham M
 
 **Applied AI Engineer · Full-Stack Developer**
 
