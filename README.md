@@ -29,7 +29,7 @@ Most of what is below was built for a specific challenge. Each row is the brief,
 | **Odoo × SNS Hackathon 2026** | Team solution for the Odoo challenge | **2nd Runner-Up** |
 | **EVOX 1.0** (DETOX, on Unstop) | [City of One Rule](https://github.com/Sri-Gowtham/city-of-one-rule), a browser city simulation you steer with one rule a day, built with teammate Sanjana BR | **Winner, 1st place** among 2,000+ participants |
 | **SNS Square Agent Workbench (UC-49)** | [CatalogIQ](https://github.com/Sri-Gowtham/catalogiq): agents that enrich, validate and publish FMCG listings | In development |
-| **WebRush 2026** | [Rewind](https://github.com/Sri-Gowtham/rewind): listening data turned into story chapters | Completed |
+| **WebRush 2026** | [Rewind](https://github.com/Sri-Gowtham/rewind): listening data turned into story chapters | **48th place** among 1,000+ participants |
 
 ---
 
