@@ -17,7 +17,9 @@
 
 ---
 
-Final-year Computer Science and Engineering student at **SNS College of Technology, Coimbatore**, and Machine Learning Intern at **Epoch Minds**. I take an idea from problem discovery to a working API and a usable interface, usually under a hackathon clock.
+CS undergrad from Coimbatore building AI-powered products and full-stack applications. I work at the intersection of Generative AI and software engineering, from multi-agent LLM systems and RAG pipelines to production-ready web apps. I ship real things, not just tutorials.
+
+**Open to internships and fresher roles in AI and software engineering.**
 
 ---
 
